@@ -15,5 +15,17 @@
       "name":"Matt Demon",
       "password":"matt"
     }
-  ]
+  ],
+  "meals":[
+    {
+      "id":1,
+      "name":"Protein cookies",
+      "category":"snack"
+    },
+    {
+      "id":2,
+      "name":"Chicken nuggets",
+      "category":"meal"
+    }
+   ]
 }
