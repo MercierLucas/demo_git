@@ -1,4 +1,4 @@
-{
+[
   {
     "id":1,
     "name":"Shapo",
@@ -14,4 +14,4 @@
     "name":"Matt Demon",
     "password":"matt",
   },
-}
+]
