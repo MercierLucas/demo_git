@@ -2,16 +2,16 @@
   {
     "id":1,
     "name":"Shapo",
-    "password":"test",
+    "password":"test"
   },
   {
     "id":2,
     "name":"Terry Cruz",
-    "password":"terry",
+    "password":"terry"
   },
   {
     "id":3,
     "name":"Matt Demon",
-    "password":"matt",
+    "password":"matt"
   }
 ]
