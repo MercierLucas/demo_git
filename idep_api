@@ -1,0 +1,27 @@
+{
+  "products":[
+    {
+      "id":1,
+      "profile_picture_url":"https://upload.wikimedia.org/wikipedia/commons/5/58/Terry_Crews_by_Gage_Skidmore_5.jpg",
+      "username":"Lucas",
+      "product_name":"Python book",
+      "product_picture_url":"https://media.geeksforgeeks.org/wp-content/uploads/20190709182914/Programming-Python.jpg",
+      "price":10
+    },
+    {
+      "id":2,
+      "profile_picture_url":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Mark_Wahlberg_2017.jpg",
+      "username":"Marc Welberg",
+      "product_name":"Raclette",
+      "product_picture_url":"https://www.papillesetpupilles.fr/wp-content/uploads/2016/12/Raclette-%C2%A9beats1-shutterstock.jpg",
+      "price":5
+    },
+  ],
+  "users":[
+    {
+      "id":1,
+      "forename":"Lucas",
+      "lastname":"Mercier",
+    }
+   ]
+}
