@@ -32,20 +32,62 @@
     {
         "id": 2,
         "content": "Matthieu aime le sex",
-        "sender": null,
-        "receiver": null
+        "sender": {
+            "id": 4,
+            "forename": "Andrew",
+            "surname": "Pouret",
+            "mail": "andrew.pouret@isep.fr",
+            "balance": 500000.0,
+            "admin": false
+        },
+        "receiver": {
+            "id": 5,
+            "forename": "Matthieu",
+            "surname": "Jacquand",
+            "mail": "matthieu.jacquand@isep.fr",
+            "balance": 500000.0,
+            "admin": false
+        }
     },
     {
         "id": 3,
         "content": "Nico aime le sex",
-        "sender": null,
-        "receiver": null
+        "sender": {
+            "id": 4,
+            "forename": "Andrew",
+            "surname": "Pouret",
+            "mail": "andrew.pouret@isep.fr",
+            "balance": 500000.0,
+            "admin": false
+        },
+        "receiver": {
+            "id": 5,
+            "forename": "Matthieu",
+            "surname": "Jacquand",
+            "mail": "matthieu.jacquand@isep.fr",
+            "balance": 500000.0,
+            "admin": false
+        }
     },
     {
         "id": 4,
         "content": "IntelliJ>Eclipse",
-        "sender": null,
-        "receiver": null
+        "sender": {
+            "id": 4,
+            "forename": "Andrew",
+            "surname": "Pouret",
+            "mail": "andrew.pouret@isep.fr",
+            "balance": 500000.0,
+            "admin": false
+        },
+        "receiver": {
+            "id": 5,
+            "forename": "Matthieu",
+            "surname": "Jacquand",
+            "mail": "matthieu.jacquand@isep.fr",
+            "balance": 500000.0,
+            "admin": false
+        }
     },
     {
         "id": 5,
