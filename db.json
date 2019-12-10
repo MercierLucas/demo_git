@@ -31,7 +31,7 @@
   "messages":[
     {
         "id": 2,
-        "content": "Matthieu aime le sex",
+        "content": "Salut Matthieu ça va?",
         "sender": {
             "id": 4,
             "forename": "Andrew",
@@ -51,8 +51,16 @@
     },
     {
         "id": 3,
-        "content": "Nico aime le sex",
+        "content": "Bien et toi?",
         "sender": {
+            "id": 5,
+            "forename": "Matthieu",
+            "surname": "Jacquand",
+            "mail": "matthieu.jacquand@isep.fr",
+            "balance": 500000.0,
+            "admin": false
+        },
+        "reveiver": {
             "id": 4,
             "forename": "Andrew",
             "surname": "Pouret",
@@ -60,14 +68,6 @@
             "balance": 500000.0,
             "admin": false
         },
-        "receiver": {
-            "id": 5,
-            "forename": "Matthieu",
-            "surname": "Jacquand",
-            "mail": "matthieu.jacquand@isep.fr",
-            "balance": 500000.0,
-            "admin": false
-        }
     },
     {
         "id": 4,
